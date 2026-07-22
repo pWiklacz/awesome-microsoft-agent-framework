@@ -89,6 +89,7 @@
 - [Governance at the Speed of Agents: Microsoft Agent Framework and Agent Governance Toolkit, Better Together](https://devblogs.microsoft.com/agent-framework/governance-at-the-speed-of-agents-microsoft-agent-framework-and-agent-governance-toolkit-better-together/) - How Agent Governance Toolkit pairs with Microsoft Agent Framework to enforce policy at runtime, govern agent actions, and provide end-to-end auditability for production AI agents.
 - [FIDES: Flow Integrity Deterministic Enforcement System in Agent Framework](https://devblogs.microsoft.com/agent-framework/fides/) - Introducing FIDES, an information-flow control middleware that labels content with integrity and confidentiality labels to deterministically enforce policies and protect against prompt injection attacks.
 - [Agent Loops, Workflows, and Harnesses: The Layered SDK Powering Microsoft Agent Framework](https://commandline.microsoft.com/agent-framework-layered-sdk-loops-workflows-harnesses/) - Explains how Microsoft Agent Framework's layered SDK is organized around agent loops, workflows, and harnesses to move from a prompt to a production-ready agent.
+- [The Microsoft Agent Framework Harness is now released](https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/) - Announcing the stable, batteries-included agent harness for Python and .NET that wraps a chat client with a complete agentic pipeline including function invocation, planning, memory, compaction, tool approvals, web search, and telemetry.
 
 ## Tutorials
 
