@@ -69,6 +69,7 @@
 - [Give Your Agents New Capabilities and Expertise Using Skills with Microsoft Agent Framework](https://arafattehsin.com/blog/give-your-agents-new-capabilities-skills-microsoft-agent-framework/) - Practical guide on implementing Agent Skills by Arafat Tehsin.
 - [Microsoft Agent Framework - Agent Skills](https://ravichaganti.com/blog/microsoft-agent-framework-agent-skills/) - Overview and walkthrough of Agent Skills by Ravikanth Chaganti.
 - [Agent Skills](https://www.linkedin.com/pulse/agent-skills-lana-noor--bypaf) - Deep dive into Agent Skills architecture, components, and how they introduce a modular approach to designing agents, by Lana Noor.
+- [Giving AI Agents a Real Computer](https://www.linkedin.com/pulse/giving-ai-agents-real-computer-maxim-salnikov-zexxe) - Technical deep-dive on the GitHub Copilot provider for Microsoft Agent Framework and building Sandcastle, by Maxim Salnikov.
 
 ### Official Microsoft Blogs
 
